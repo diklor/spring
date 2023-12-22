@@ -5,7 +5,7 @@
 
 # Create
 ```gdscript
-var recoil_spring = Spring.new(8, 3, 2, 8)   # mass, force, damping, speed
+var recoil_spring := Spring.new(8, 3, 2, 8)   # mass, force, damping, speed
 ```
 
 
